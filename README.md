@@ -10,16 +10,18 @@ It is most complex PCB project so it was quite difficult to work on it, but with
 Here are screenshots of PCB Design
 
 ## PCB Design
-![PCB](./images/pcb.png)
+![PCB](./hardware/mainboard/rev1/image/pcb.png)
 
 ## Schematic
-![Schematic](./images/sch.png)
+![Schematic](./hardware/mainboard/rev1/image/sch.png)
 
 ## 3D View
-![3D View](./images/3d.png)
+![3D View](./hardware/mainboard/rev1/image/3d.png)
 
+## Soldered PCB
 
-
+![sol](./hardware/mainboard/rev1/image/sol.png)
+![sol](./hardware/mainboard/rev1/image/sol2.jpg)
 
 
 
